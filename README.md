@@ -1,4 +1,5 @@
-[![GitHub Banner]([[https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://github.com/Mr-Karaa/Mr-Karaa/assets/125089535/435cb368-f8d5-45ca-80bd-06498e8e73e2)](https://giphy.com/gifs/80s-synthwave-aesthetic-5e25aUTZPcI94uMZgv))](https://github.com/Mr-Karaa)
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Mr-Karaa)
+
 
 
 
