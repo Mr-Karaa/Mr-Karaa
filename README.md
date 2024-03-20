@@ -1,4 +1,5 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Mr-Karaa)
+[![GitHub Banner](https://github.com/Mr-Karaa/Mr-Karaa/assets/125089535/223aef67-47ca-40f9-912d-e63baeb7ff15)](https://github.com/Mr-Karaa)
+
 
 
 
